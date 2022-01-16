@@ -1,0 +1,3 @@
+https://python-scripts.com/create-blog-django
+
+https://python-scripts.com/user-accounts-django
